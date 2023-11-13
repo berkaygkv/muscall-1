@@ -5,3 +5,8 @@
 .ipynb_checkpoints/
 save/
 **venv
+.venv
+muscall_data_google
+.conda
+mulan.0.pt
+mulan.1.pt

@@ -20,7 +20,7 @@ def prepare_labels(labels, prompt=None):
     tokenizer = CLIPTokenizer.from_pretrained("openai/clip-vit-base-patch32")
 
     max_length = 77
-    text_prompts = torch.zeros((len(labels), max_length), dtype=torch.long).cuda()
+    text_prompts = torch.zeros((len(labels), max_length), dtype=torch.long)
 
     for i, label in enumerate(labels):
         if prompt is None:

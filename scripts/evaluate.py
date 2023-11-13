@@ -45,6 +45,7 @@ def parse_args():
 if __name__ == "__main__":
     params = parse_args()
     model_id = params.model_id
+    print(model_id)
 
     muscall_config = OmegaConf.load(
         os.path.join(get_root_dir(), "save/experiments/{}/config.yaml".format(model_id))

@@ -4,10 +4,10 @@ training:
   # Maximum number of epochs
   epochs: 100
   # Device on which the model will be trained. Set 'cpu' to train/infer on CPU
-  device: cuda
+  device: mps
 
   dataloader:
-    batch_size: 256
+    batch_size: 16
     num_workers: 4
     shuffle: True
     pin_memory: True

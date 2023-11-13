@@ -1,17 +1,47 @@
 [
     {
-        "audio_id": 1,
-        "caption": "First caption that describes this amazing track!",
-        "audio_path": "track_1.npy"
+        "audio_id": 84,
+        "caption": "The low quality recording features a live performance that consists of fruity male vocal singing over accordion melody, acoustic rhythm guitar chords and shimmering bells. It sounds emotional and hopeful. The recording is a bit noisy and in mono, as it was probably recorded with a phone.",
+        "audio_path": "84.npy"
     },
     {
-        "audio_id": 2,
-        "caption": "Second caption that describes this amazing track!",
-        "audio_path": "track_2.npy"
+        "audio_id": 85,
+        "caption": "This is a video game theme. There is a cinematic string sound playing the melody while the wind sound effect implies there is a snowstorm. A male choir starts singing alongside orchestral percussive elements. There is an epic atmosphere. This piece could fit well in the soundtrack of a thriller video game where there is a face-off about to happen.",
+        "audio_path": "85.npy"
     },
     {
-        "audio_id": 3,
-        "caption": "Third caption that describes this amazing track!",
-        "audio_path": "track_3.npy"
+        "audio_id": 86,
+        "caption": "A male singer sings this cool hip hop love song with backup singers in vocal harmony. The tempo is medium with keyboard accompaniment, piano accompaniment, steady drumming rhythm, clapping percussion and other sonic effects. The song is emotional and romantic with a cool dance  groove,",
+        "audio_path": "86.npy"
+    },
+    {
+        "audio_id": 87,
+        "caption": "This recording contains environmental sounds such as birds singing. Then bells start playing a melody with a long release time. This is an amateur recording. This song may be playing outside in a park at a fixed time.",
+        "audio_path": "87.npy"
+    },
+    {
+        "audio_id": 88,
+        "caption": "The kick is playing on every beat along with a fast paced high hat and a snare sound. The digital bass is adding some spice and sounds overdriven. Pad sounds can be heard in the background while a synth lead sound is playing a simple repetitive melody. A male voice is rapping/singing. A lot of backing vocals with delay are adding energy to the mix. This song may be playing in a car.",
+        "audio_path": "88.npy"
+    },
+    {
+        "audio_id": 89,
+        "caption": "The Romance song features an electric guitar lick, low toms roll and soft crash cymbal, followed by emotional piano chord progression and wide background crowd screams, as the passionate male vocal sings over it. Judging by the crowd sound effect, it seems that this is a live performance. Sounds emotional, passionate, heartfelt and romantic.",
+        "audio_path": "89.npy"
+    },
+    {
+        "audio_id": 90,
+        "caption": "This song features a female voice singing in opera style using only vocables and no words. This is accompanied by violins playing eighth note patterns that change according to the chords being played. The bass follows the root notes of the chords. A muted guitar or string instrument plays arpeggiated chords. This song can be played in a fantasy game.",
+        "audio_path": "90.npy"
+    },
+    {
+        "audio_id": 91,
+        "caption": "The low quality recording features a pop song that consists of a passionate male vocal singing over mellow kick hits, shimmering hi hats, wide electric guitar melody, syncopated snare and wooden percussion. The first half of the loop does not consist of the vocal, snare and hi hats. It sounds happy, fun and joyful.",
+        "audio_path": "91.npy"
+    },
+    {
+        "audio_id": 92,
+        "caption": "This is an Arabic movie music piece. It is an instrumental piece. There is a clarinet playing a vague melody. The sound of knives being rubbed against one another can be heard. There is an ominous, terrifying atmosphere. This piece could be used in the soundtrack of a horror movie to imply the feeling of hopelessness.",
+        "audio_path": "92.npy"
     }
 ]

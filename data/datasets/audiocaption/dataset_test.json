@@ -1,17 +1,47 @@
 [
     {
-        "audio_id": 1,
-        "caption": "First caption that describes this amazing track!",
-        "audio_path": "track_1.npy"
+        "audio_id": 75,
+        "caption": "This audio clip is an electronic instrumental of two different tracks with medium fast tempo. The first tempo has an amplified piano playing an emphatic harmony along with digital drums. The second track has emphatic digital drums and electronic /synthesised music arrangement. Both the tracks are melodious, pleasant, harmonic, futuristic, captivating and engaging with a dance groove.",
+        "audio_path": "75.npy"
     },
     {
-        "audio_id": 2,
-        "caption": "Second caption that describes this amazing track!",
-        "audio_path": "track_2.npy"
+        "audio_id": 76,
+        "caption": "This audio clip is of a male vocalist beat boxing. The tempo is fast with the vocalist mimicking vigorous drumming, drum machine rhythms, turn table and other percussions.the rhythm is vigorous, energetic and tireless.",
+        "audio_path": "76.npy"
     },
     {
-        "audio_id": 3,
-        "caption": "Third caption that describes this amazing track!",
-        "audio_path": "track_3.npy"
+        "audio_id": 77,
+        "caption": "This is a comedic hip-hop music piece. There is a male vocal rapping in the lead. The melody in the beat is being played by the piano and the electric guitar while a bass guitar plays in the background. The rhythm is provided by an electronic drum beat. The piece has an amusing aura to it. It could be used in the background of funny social media content.",
+        "audio_path": "77.npy"
+    },
+    {
+        "audio_id": 78,
+        "caption": "An acoustic drum is playing along with a bassline giving the song a ska/reggae feeling. The e-guitar strumming on the offbeat supports that feeling while a keyboard is playing a bell-sounding chord. Bongos are setting little accents at the end. A saxophone is playing a melody along. This song may be playing at a festival outside while the sun is shining.",
+        "audio_path": "78.npy"
+    },
+    {
+        "audio_id": 79,
+        "caption": "The song is an instrumental. The song is medium tempo played by a solo guitarist on a vintage super tone with an exquisite tone. The song is emotional and passionate. The song has poor audio quality.",
+        "audio_path": "79.npy"
+    },
+    {
+        "audio_id": 80,
+        "caption": "This amateur recording features a vinyl scratch being played on a DJ console. This is accompanied by programmed percussion playing a simple beat at a fast tempo. The hi-hat is struck in eighth notes. The snare and kick are played in a unique pattern. A synth plays a two-note lick at different intervals. Other instruments are not audible as the audio quality is low.",
+        "audio_path": "80.npy"
+    },
+    {
+        "audio_id": 81,
+        "caption": "The Electro Pop song features a flat female vocal, occasionally supported by wide background female doubling vocals, singing over quiet drums, groovy and boomy bass, arpeggiated synth melody and some sound effects of the airplane and the explosion. In the second part, the drums cut through the mix more, therefore they are more audible, while the new elements appear, including shimmering bells and simple hi hats. Sounds like a low quality recording, especially because of that first part of the loop.",
+        "audio_path": "81.npy"
+    },
+    {
+        "audio_id": 82,
+        "caption": "The low quality recording features a folk song that consists of a wooden percussion, groovy bass, breathy flute melody, groovy piano melody, shimmering shakers and sustained strings melody. It sounds passionate, joyful and happy.",
+        "audio_path": "82.npy"
+    },
+    {
+        "audio_id": 83,
+        "caption": "This audio contains an acoustic drum playing a groove along with a simple bassline. Trumpets are playing a melody that sounds out of tune and all over the place while a kids voice is streaming and you can hear some aggressive clicking sounds. This song may be playing for a parody video.",
+        "audio_path": "83.npy"
     }
 ]
